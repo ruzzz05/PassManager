@@ -24,10 +24,10 @@ python3 manager.py
 
 ## 🛠️ How It Works
 
-###First Time Use:
+### First Time Use:
 You'll be prompted to create a master password. This is your only way to access the stored credentials.
 
-###Main Options:
+### Main Options:
 
 ➕ Add a new password (e.g., for a website or service).
 
@@ -35,13 +35,13 @@ You'll be prompted to create a master password. This is your only way to access 
 
 ❌ Delete an existing password entry.
 
-###Security Feature:
+### Security Feature:
 
 If the master password is entered incorrectly more than 5 times, the encrypted storage file (.json) is automatically deleted for safety.
 
 
 
-##📁 File Structure
+## 📁 File Structure
 
 ```bash
 ├── manager.py
@@ -53,20 +53,20 @@ If the master password is entered incorrectly more than 5 times, the encrypted s
 ```
 
 
-##✅ Requirements
+## ✅ Requirements
 
 Python 3.7+
 
 Modules: cryptography, json, etc.
 
 
-##🔐 Important
+## 🔐 Important
 Always remember your master password!
 There is no recovery mechanism by design, to preserve security.
 
 
 
-##📄 License
+## 📄 License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 You are free to share and adapt the code, but commercial use is strictly prohibited.
 
