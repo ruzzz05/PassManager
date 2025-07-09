@@ -64,6 +64,8 @@ Modules: cryptography, json, etc.
 Always remember your master password!
 There is no recovery mechanism by design, to preserve security.
 
+💾 ** It is highly recommended to back up your passwords.json file regularly in case of accidental or malicious deletion. **
+
 
 
 ## 📄 License
